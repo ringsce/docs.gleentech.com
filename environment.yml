@@ -1,0 +1,9 @@
+name: docs.gleentech.com
+#channels:
+#  - conda-forge
+dependencies:
+  - python=3.11
+  - sphinx
+  - furo
+  - sphinx-design
+
