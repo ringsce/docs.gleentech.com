@@ -1,0 +1,4 @@
+sphinx==7.2.6
+furo
+sphinx-intl
+sphinxext-rediraffe

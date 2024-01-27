@@ -24,9 +24,9 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-#html_theme = 'alabaster'
+html_theme = 'alabaster'
 html_static_path = ['_static']
 
-extensions.append("sphinx_wagtail_theme")
-html_theme = 'sphinx_wagtail_theme'
+#extensions.append("sphinx_wagtail_theme")
+#html_theme = 'sphinx_wagtail_theme'
 
